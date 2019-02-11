@@ -1,0 +1,79 @@
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported:
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Threading.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Threading.dll'. 
+Remove one of the duplicate references.
+error 
+
+CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+	
+	System.Text.Encoding.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Text.Encoding.dll'. 
+Remove one of the duplicate references.
+
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Runtime.Numerics.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Runtime.Numerics.dll'. 
+Remove one of the duplicate references.
+
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Resources.ResourceManager.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Resources.ResourceManager.dll'. 
+Remove one of the duplicate references.
+
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Reflection.Extensions.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Reflection.Extensions.dll'. 
+Remove one of the duplicate references.
+
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Diagnostics.Debug.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Diagnostics.Debug.dll'. 
+Remove one of the duplicate references.
+
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Collections.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.dll'. 
+Remove one of the duplicate references.
+
+
+error CS1703: 
+Multiple assemblies with equivalent identity have been imported: 
+'D:\Smart Enemy Projects\Assets\ML-Agents\Plugins\Android\
+
+	System.Collections.Concurrent.dll' and 
+
+'C:\Program Files\Unity\Editor\Data\NetStandard\compat\2.0.0\shims\netstandard\System.Collections.Concurrent.dll'. 
+Remove one of the duplicate references.
